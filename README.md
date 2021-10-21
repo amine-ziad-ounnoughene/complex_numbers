@@ -4,4 +4,4 @@ complex visualization of the function:
 for 
 ## <a href="https://www.codecogs.com/eqnedit.php?latex=x&space;\epsilon&space;\left&space;\{&space;-100;-99...;99;100&space;\left.&space;\right&space;\}\right.\wedge&space;x&space;\epsilon&space;\mathbb{Z}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x&space;\epsilon&space;\left&space;\{&space;-100;-99...;99;100&space;\left.&space;\right&space;\}\right.\wedge&space;x&space;\epsilon&space;\mathbb{Z}" title="x \epsilon \left \{ -100;-99...;99;100 \left. \right \}\right.\wedge x \epsilon \mathbb{Z}" /></a>
 
-! [App Screenshots](https://github.com/amine-ziad-ounnoughene/complex_numbers/blob/a1df78fedd946dcb4b2bcc22dae305d4bad306af/t%C3%A9l%C3%A9chargement%20(6).png)
+![App Screenshot](https://github.com/amine-ziad-ounnoughene/complex_numbers/blob/a1df78fedd946dcb4b2bcc22dae305d4bad306af/t%C3%A9l%C3%A9chargement%20(6).png)
