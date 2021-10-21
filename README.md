@@ -1,4 +1,4 @@
 # complex_numbers
 complex visualization of the function: 
-f\left ( x \right )=250^{xi};x \epsilon \left \{ -100;-99...;99;100 \left.  \right \}\right.;x \epsilon  
-  \mathbb{Z}
+## f\left ( x \right )=250^{xi};x \epsilon \left \{ -100;-99...;99;100 \left.  \right \}\right.;x \epsilon  \mathbb{Z}
+<a href="https://www.codecogs.com/eqnedit.php?latex=f\left&space;(&space;x&space;\right&space;)=250^{xi};x&space;\epsilon&space;\left&space;\{&space;-100;-99...;99;100&space;\left.&space;\right&space;\}\right.;x&space;\epsilon&space;\mathbb{Z}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f\left&space;(&space;x&space;\right&space;)=250^{xi};x&space;\epsilon&space;\left&space;\{&space;-100;-99...;99;100&space;\left.&space;\right&space;\}\right.;x&space;\epsilon&space;\mathbb{Z}" title="f\left ( x \right )=250^{xi};x \epsilon \left \{ -100;-99...;99;100 \left. \right \}\right.;x \epsilon \mathbb{Z}" /></a>
